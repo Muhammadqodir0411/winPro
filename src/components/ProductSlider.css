@@ -1,0 +1,76 @@
+.container {
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 0 30px;
+}
+
+.my-projects-wrap {
+  display: flex;
+  margin: auto;
+}
+
+.my-projects-box {
+  width: 240px;
+  height: 280px;
+  border: 1px solid rgba(220, 224, 232, 1);
+  border-radius: 12px;
+}
+
+.measurements-box {
+  width: 242px;
+  height: 396px;
+  border: 1px solid rgba(220, 224, 232, 1);
+  border-radius: 12px;
+}
+
+.templates-box {
+  width: 240px;
+  height: 416px;
+  border: 1px solid rgba(220, 224, 232, 1);
+  border-radius: 12px;
+  margin-bottom: 50px;
+}
+
+.home-img {
+  margin: auto;
+  margin-top: 108px;
+}
+
+@media only screen and (max-width: 480px) {
+  .my-projects-box {
+    width: 100%;
+  }
+  .measurements-box {
+    width: 100%;
+  }
+  .templates-box {
+    width: 100%;
+  }
+}
+
+
+
+@media only screen and (min-width: 640px) {
+  .my-projects-box {
+    width: 100%;
+  }
+  .measurements-box {
+    width: 100%;
+  }
+  .templates-box {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .my-projects-box {
+    width: 100%;
+  }
+  .measurements-box {
+    width: 100%;
+  }
+  .templates-box {
+    width: 100%;
+  }
+}
+
