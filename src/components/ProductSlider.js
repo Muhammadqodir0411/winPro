@@ -38,8 +38,8 @@ const ProductSlider = () => {
               spaceBetween: 30,
             },
             1920: {
-              slidesPerView: 9,
-              spaceBetween: 30,
+              slidesPerView: 1,
+              spaceBetween: 10,
             },
           }}
           keyboard={{
@@ -106,8 +106,8 @@ const ProductSlider = () => {
               spaceBetween: 30,
             },
             1920: {
-              slidesPerView: 9,
-              spaceBetween: 30,
+              slidesPerView: 1,
+              spaceBetween: 10,
             },
           }}
           keyboard={{
@@ -172,8 +172,8 @@ const ProductSlider = () => {
               spaceBetween: 30,
             },
             1920: {
-              slidesPerView: 9,
-              spaceBetween: 30,
+              slidesPerView: 1,
+              spaceBetween: 10,
             },
           }}
           keyboard={{
